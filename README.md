@@ -27,7 +27,7 @@
   
 
 ### Misc
-- coursera clone / learnyst clone / graphy clone (object store)
+- coursera clone / learnyst clone / graphy clone (content management system)
 - UI component library
 - Streamyard clone
 - Google docs clone
