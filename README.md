@@ -1,4 +1,4 @@
-# All of my observations and overthinking in a single repo
+
 
 ### GPT Wrappers
 - Interactive Storytelling Platform for Education
