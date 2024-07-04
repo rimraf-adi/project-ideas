@@ -15,12 +15,16 @@
 - json to react-tailwind
 - Improved Vimeo => API for subtitle transcoding segmentation AI etc
 
+
+
 ### Web3
 - Airdrop Tracker
 - Cross-Chain Portfolio Tracker
 - Paytm box for Blockchain
 - Crypto Payment Gateway
 - fast price feed for crypto/ meme coins
+
+  
 
 ### Misc
 - coursera clone / learnyst clone / graphy clone (object store)
@@ -39,6 +43,7 @@
 
 
 
+
 ### Golang
 #### Serverless Functions Framework
 Description:
@@ -49,6 +54,8 @@ Develop a serverless framework in Golang that allows users to deploy and manage 
 - Provide templates for common use cases (e.g., REST API, cron jobs).
 - Include logging and monitoring.
 
+
+
 ### Slightly out of scope/ difficult to implement
 - ML framework
 - trading engine
@@ -58,10 +65,13 @@ Develop a serverless framework in Golang that allows users to deploy and manage 
 - Structured Leetcode / Learning platform
 - Detoxify - social media
 
+
+
 ### Core AI/ ML
 - Fine tuning LLM Models
 - Transformer from scratch
 - Framer like
+
 
   
 ### Note taking app on steroids
