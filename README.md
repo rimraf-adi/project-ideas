@@ -63,7 +63,8 @@ Develop a serverless framework in Golang that allows users to deploy and manage 
 - LSP
 - Whiteboarding Application (recording)
 - Structured Leetcode / Learning platform
-- Detoxify - social media
+- Detoxify 
+  * step1 https://www.youtube.com/playlist?list=PL_cUvD4qzbkyZ_Q_P7W70rID0JkQ8rqic
 
 
 
