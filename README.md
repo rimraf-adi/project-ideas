@@ -22,6 +22,8 @@
 - Cross-Chain Portfolio Tracker
 - Paytm box for Blockchain
 - Crypto Payment Gateway
+  * https://youtu.be/EJ2em_QkQWU
+  * https://youtu.be/obOEMAZ-05s
 - fast price feed for crypto/ meme coins
 
   
